@@ -27,6 +27,6 @@ This project allows users to:
 ## ▶️ How to Run the Project
 
 ```bash
-git clone https://github.com/pallavipoojari/caesar-cipher.git
+git clone https://github.com/pallavipoojari06-stack/caesar-cipher.git
 cd caesar-cipher
 python caesar_cipher.py
